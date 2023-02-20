@@ -6,8 +6,16 @@
         "limitSymbolsToIncludedHeaders": true
       },
       "includePath": [
-        "/opt/ros/noetic/include/**",
-        "/usr/include/**"
+        "/home/varithpu/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/varithpu/809Y_ws/src/my_vel_publisher/include/**",
+        "/home/varithpu/809Y_ws/src/bot_controller/include/**",
+        "/home/varithpu/809Y_ws/src/my_odom_subscriber/include/**",
+        "/home/varithpu/809Y_ws/src/my_vel_publisher/include/**",
+        "/usr/include/**",
+        "${workspaceFolder}",
+        "/home/varithpu/809Y_ws/devel/include/**",
+        "/home/varithpu/809Y_ws/src/final_project/include/**"
       ],
       "name": "ROS"
     }
